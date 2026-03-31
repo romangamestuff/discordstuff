@@ -33,3 +33,4 @@ jobs:
           git add posted.json
           git commit -m "update posted history" || echo "no changes"
           git push
+# trigger refresh
